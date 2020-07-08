@@ -3,8 +3,8 @@
 #include "AdafruitIO_WiFi.h"
 #include <AdafruitIO_WiFi.h>
 
-#define IO_USERNAME "WildeBeast1"
-#define IO_KEY "c237917102c44d868020217958eff9ec"
+#define IO_USERNAME "XXXXXXXXXXXXXX"
+#define IO_KEY "XXXXXXXXXXXXXXXXXXXXXXX"
 #define WIFI_SSID "Aniket"
 #define WIFI_PASS "Paluani98"
 
